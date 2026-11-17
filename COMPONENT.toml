@@ -3,7 +3,7 @@ name = "SigmaOS-arch-release-promotion"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-release-promotion component"
+description = "SigmaOS arch-release-promotion component (Arch Linux inspired)"
 upstream = []
 
 [contract]
