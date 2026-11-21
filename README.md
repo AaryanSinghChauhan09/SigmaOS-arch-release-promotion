@@ -1,6 +1,6 @@
-# SigmaOS-arch-release-promotion
+# SigmaOS-release-promotion
 
-SigmaOS arch-release-promotion component (Arch Linux inspired)
+SigmaOS release-promotion component (Arch Linux inspired)
 
 - **Category:** DevOps
 - **Engine:** build_ci

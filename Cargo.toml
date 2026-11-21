@@ -1,12 +1,12 @@
 [package]
-name = "SigmaOS-arch-release-promotion"
+name = "sigmaos-release-promotion"
 version = "0.1.0"
 edition = "2021"
 license = "Apache-2.0"
-description = "SigmaOS arch_release_promotion component"
+description = "SigmaOS sigmaos_release_promotion component"
 
 [lib]
-name = "arch_release_promotion"
+name = "sigmaos_release_promotion"
 path = "src/lib.rs"
 
 [dependencies]

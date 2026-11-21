@@ -1,9 +1,9 @@
 [component]
-name = "SigmaOS-arch-release-promotion"
+name = "SigmaOS-release-promotion"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "SigmaOS arch-release-promotion component (Arch Linux inspired)"
+description = "SigmaOS release-promotion component (Arch Linux inspired)"
 upstream = []
 
 [contract]

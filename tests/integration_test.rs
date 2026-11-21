@@ -1,4 +1,4 @@
-use arch_release_promotion::Component;
+use sigmaos_release_promotion::Component;
 
 #[test]
 fn test_component_lifecycle_aaa() {

@@ -1,4 +1,4 @@
-//! SigmaOS arch_release_promotion component
+//! SigmaOS release_promotion component
 #![forbid(unsafe_code)]
 #![warn(missing_docs)]
 
